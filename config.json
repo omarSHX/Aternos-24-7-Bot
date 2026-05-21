@@ -1,14 +1,30 @@
 {
-    "server": {
-        "host": "OMARASHX1.aternos.me",
-        "port": 11781,
-        "version": "1.21.11"
-    },
-    "bot": {
-        "username": "Visa2CodeBot",
-        "reconnectDelay": 5000,
-        "activityInterval": 30000,
-        "randomLeaveChance": 0.05,
-        "randomLeaveInterval": 300000
-    }
+  "server": {
+    "host": "OMARASHX1.aternos.me",
+    "port": 11781,
+    "version": "1.21.11"
+  },
+
+  "bot": {
+    "username": "omarsde",
+
+    "reconnectDelay": 7000,
+
+    "activityInterval": 15000,
+
+    "randomLeaveChance": 0.01,
+
+    "randomLeaveInterval": 900000,
+
+    "chatDelayMin": 1200,
+    "chatDelayMax": 3500,
+
+    "humanLikeMovement": true,
+
+    "randomActions": true,
+
+    "typingSimulation": true,
+
+    "antiSpam": true
+  }
 }

@@ -1,7 +1,7 @@
 {
     "server": {
-        "host": "your-aternos-server.aternos.me",
-        "port": 25565,
+        "host": "OMARASHX1.aternos.me",
+        "port": 11781,
         "version": "1.20.1"
     },
     "bot": {
